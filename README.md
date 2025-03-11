@@ -103,14 +103,27 @@ APT29 is known for **long-term stealthy intrusions, sophisticated malware, and e
 | **Lateral Movement** | Remote Desktop Protocol (RDP) | `T1021.001` |
 | **Exfiltration** | Exfiltration Over HTTPS | `T1048.002` |
 
-📖 **[Full MITRE ATT&CK Mapping](https://attack.mitre.org/groups/G0016)**
+**[Full MITRE ATT&CK Mapping](https://attack.mitre.org/groups/G0016)**
 
+## 📖 Full Report on APT29 Threat Actor Analysis
 
+For a **comprehensive deep dive into APT29**, including detailed case studies, methodology, and advanced threat intelligence, refer to the **full report**:
+
+**[FinalReport_APT29.pdf](resources/FinalReport_ThreatActorAnalysis.pdf)**
+
+🔹 **What’s Inside the Report?**
+- **APT29's evolution and affiliations with Russian intelligence**
+- **Detailed breakdown of SolarWinds, Operation Ghost, and other campaigns**
+- **Technical analysis of malware (SUNBURST, MiniDuke, RegDuke, etc.)**
+- **Indicators of Compromise (IOCs) and MITRE ATT&CK mappings**
+- **Recommendations for detecting and mitigating APT29 activities**
+
+For **threat researchers and cybersecurity professionals**, this report serves as an essential resource for understanding APT29’s methodologies.
 
 ## **Conclusion & Recommendations**
-✔ **APT29 remains a persistent and highly sophisticated threat.**  
-✔ **Security teams should enforce MFA, network segmentation, and threat intelligence feeds.**  
-✔ **Regular security audits & behavioral monitoring can mitigate attacks.**  
+- **APT29 remains a persistent and highly sophisticated threat.**  
+- **Security teams should enforce MFA, network segmentation, and threat intelligence feeds.**  
+- **Regular security audits & behavioral monitoring can mitigate attacks.**  
 
 ---
 
