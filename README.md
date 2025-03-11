@@ -14,10 +14,10 @@ APT29 is known for **long-term stealthy intrusions, sophisticated malware, and e
 ---
 
 ## Key Findings
-✔ **APT29 specializes in supply chain compromises, malware development, and credential theft.**  
-✔ **Their attacks involve spear-phishing, PowerShell abuse, and stealthy malware loaders.**  
-✔ **They leverage sophisticated malware like SUNBURST, MiniDuke, and RegDuke for persistent access.**  
-✔ **APT29's activities align closely with the MITRE ATT&CK framework across multiple tactics.**  
+- **APT29 specializes in supply chain compromises, malware development, and credential theft.**  
+- **Their attacks involve spear-phishing, PowerShell abuse, and stealthy malware loaders.**  
+- **They leverage sophisticated malware like SUNBURST, MiniDuke, and RegDuke for persistent access.**  
+- **APT29's activities align closely with the MITRE ATT&CK framework across multiple tactics.**  
 
 ---
 
